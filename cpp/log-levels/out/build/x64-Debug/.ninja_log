@@ -1,0 +1,4 @@
+# ninja log v5
+6	1139	7403445814503201	CMakeFiles/log-levels.dir/log_levels_test.cpp.obj	273948238facff6e
+13	5376	7403445856816079	CMakeFiles/log-levels.dir/test/tests-main.cpp.obj	ac4131669b25a174
+5376	6665	7403445868646578	log-levels.exe	ca9404945ad1db6d

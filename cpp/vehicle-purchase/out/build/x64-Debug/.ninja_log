@@ -1,0 +1,5 @@
+# ninja log v5
+12	2026	7403442907124622	CMakeFiles/vehicle-purchase.dir/vehicle_purchase.cpp.obj	a30c529ef660be1f
+6	2051	7403442907483673	CMakeFiles/vehicle-purchase.dir/vehicle_purchase_test.cpp.obj	1db10045c9074787
+16	7267	7403442959541509	CMakeFiles/vehicle-purchase.dir/test/tests-main.cpp.obj	3cda434085da8358
+7268	8990	7403442975121768	vehicle-purchase.exe	3c9e8467c4a0c81b
